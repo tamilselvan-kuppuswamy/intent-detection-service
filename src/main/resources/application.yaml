@@ -16,7 +16,7 @@ intent-config:
 
 azure:
   openai:
-    endpoint: https://<your-openai-endpoint>.openai.azure.com      # Replace with your Azure OpenAI endpoint
-    api-key: sk-xxxxxxxxxxxxxxxxxxxx                             # Set as environment variable in production!
-    deployment: logistics-intents                                  # Your deployment name in Azure OpenAI
-    api-version: 2024-05-01                                        # Set to your API version, update if needed
+    endpoint: https://ups-jarvis-ai-foundry.cognitiveservices.azure.com/      # Replace with your Azure OpenAI endpoint
+    api-key: CToGIgq9UUuTKNwCaT93P7J4FF3pmzP2PRJasy6FEWGRIQGYGOS2JQQJ99BGACYeBjFXJ3w3AAAAACOGI2co
+    deployment: gpt-4
+    api-version: 2025-01-01-preview
